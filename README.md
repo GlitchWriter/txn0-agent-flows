@@ -5,3 +5,6 @@ an AI-driven meme coin experiment built on BNB Chain.
 
 👉 For the full overview and project documentation, see  
 [**Project-README_TXN0.md**](./Project-README_TXN0.md).
+
+👉 On-chain references are listed at the bottom of [Project-README_TXN0.md](./Project-README_TXN0.md).
+
