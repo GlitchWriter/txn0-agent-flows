@@ -92,3 +92,10 @@ If you’re building something similar and want to connect, feel free to reach o
 - Telegram (channel listed on [txn0.io](https://txn0.io))  
 - X ([@_TXN0](https://x.com/_TXN0))  
 
+## 🔗 Agent Documentation
+
+- [Airdrop Agent](./Airdrop-agent-README.md) — validates stories, checks wallets, executes drops  
+- [Drop Announcer](./Drop-Announcer-README.md) — posts confirmed drops to X + Telegram  
+- [BUGFIXER Agent](./TXN-0-BUGFIXER-Agent-README.md) — error detection & stuck row reset  
+- [Shadowline Agent](./TXN-0-Shadowline-README.md) — scans mentions, replies under strict rules
+
