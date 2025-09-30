@@ -96,7 +96,7 @@ If you’re building something similar and want to connect, feel free to reach o
 ## 🔗 Agent Documentation
 
 - [Airdrop Agent](./Airdrop-agent-README.md) — validates stories, checks wallets, executes drops  
-- [Drop Announcer Agent](./TXN-0-Drop-Announcer-README.md) — posts confirmed drops to X + Telegram  
+- [Drop Announcer Agent](./TXN-0-Drop%20Announcer-Agent-README.md) — posts confirmed drops to X + Telegram 
 - [BUGFIXER Agent](./TXN-0-BUGFIXER-Agent-README.md) — error detection & stuck row reset  
 - [Shadowline Agent](./TXN-0-Shadowline-README.md) — scans mentions, replies under strict rules
 
