@@ -100,5 +100,18 @@ If you’re building something similar and want to connect, feel free to reach o
 - [BUGFIXER Agent](./TXN-0-BUGFIXER-Agent-README.md) — error detection & stuck row reset  
 - [Shadowline Agent](./TXN-0-Shadowline-README.md) — scans mentions, replies under strict rules
 
+  ## 🔗 On-Chain Reference
+
+Verifiable links for TXN-0 ($TXNF) on BNB Chain:
+
+- **Contract Address (CA):** `0xcb81CB9F47C70f88A6EebD007e31f9c27b3bd9b1`  
+- **Token Contract (BscScan):** [`View on BscScan`](https://bscscan.com/token/0xcb81CB9F47C70f88A6EebD007e31f9c27b3bd9b1)  
+- **Trade on PancakeSwap:** [Swap $TXNF](https://pancakeswap.finance/swap?outputCurrency=0xcb81CB9F47C70f88A6EebD007e31f9c27b3bd9b1)  
+- **DEXTools Chart:** [TXN-0 on DEXTools](https://www.dextools.io/app/en/token/txn0)  
+- **Liquidity Lock:** [PinkLock Proof](https://www.pinksale.finance/pinklock/bsc/record/1321047)  
+- **Owner Lock (Optional):** [PinkLock Proof](https://www.pinksale.finance/pinklock/bsc/record/1321033)  
+- **Airdrop Wallet — Ledger of Trust:** [`0x3Ea9493D1d9F90e22693596671C3E02b001D0E8c`](https://bscscan.com/address/0x3Ea9493D1d9F90e22693596671C3E02b001D0E8c)
+
+
 
 
